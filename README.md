@@ -1,3 +1,3 @@
-# QSIPrep on Flywheel
+# ANTs and Freesurfer Longitudinal on Flywheel
 
-A Flywheel gear that runs QSIPrep!
+A Flywheel gear that can run Freesurfer and ANTs longitudinal pipelines.
